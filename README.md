@@ -3,7 +3,7 @@ Contact Tracing - TCN Coalition
 
 Decentralized protocol. Developed & supported by a global consortium for Privacy-First Digital Contact Tracing Protocols.
 
-Sources | https://github.com/TCNCoalition/TCN
+Sources | https://github.com/TCNCoalition/
 --------|------------------------------------
 Website | https://tcn-coalition.org/
 
