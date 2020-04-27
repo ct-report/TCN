@@ -30,7 +30,7 @@ Build | Link
 
 ---------------------------------------
 
-**COVID COMMUNITY ALERT** based on TCN protocol. One of the former proposals for the Italian Government official app. 
+**COVID COMMUNITY ALERT** based on TCN protocol. One of the former proposals during the Fast-Call for the Italian Government official app. 
 
 Sources | https://gitlab.com/coronavirus-outbreak-control
 --------|------------------------------------------------
